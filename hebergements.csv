@@ -1,0 +1,9 @@
+type;nom;adresse;code_postal;ville;telephone;precisions;geo
+CHU;Les Baudemons;30, rue des Baudemons;94320.0;Thiais;01.55.53.16.10;Hommes et femmes  isolés de plus de 50 ans.;48.769465,2.394079
+CHRS;Poterne des Peupliers;8-14, rue de la Poterne des Peupliers;75013.0;Paris;01.45.81.90.00;Hommes et femmes isolés de 25 à 65 ans. Couples.;48.819423,2.353209
+CHU;Baudricourt;15, rue Baudricourt;75013.0;Paris;01.45.83.32.60;Hommes et femmes isolés de 25 à 65 ans.;48.828012,2.364797
+CHRS;Pauline Roland;35-37, rue Fessart;75019.0;Paris;01.42.03.26.28;Femmes seules ou femmes avec enfants.;48.876763,2.384943
+CHRS;Relais des carrières;71, rue du Château des Rentiers;75013.0;Paris;01.42.16.76.76;Hommes et femmes isolés de 25 à 65 ans.;48.826222,2.369066
+CHU;Crimée;166, rue de Crimée;75019.0;Paris;01.53.26.53.26;Familles.;48.889674,2.378039
+CHRS-CHU;Stendhal;5 quater, rue Stendhal;75020.0;Paris;01.46.62.57.57;Hommes et  femmes de 18 à 27 ans. Couples.;48.861052,2.402218
+CHRS;Charonne;43-45, boulevard de Charonne;75011.0;Paris;01.55.25.57.57;Familles monoparentales.;48.852109,2.397565
