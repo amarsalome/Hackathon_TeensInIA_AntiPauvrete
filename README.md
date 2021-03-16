@@ -15,8 +15,8 @@ Création d'une application mobile et/ou site internet permettant de proposer de
 Afficher les centres d'hébergements parisiens sur une carte. 
 * En vert : les CHRS et CHRS-CHU
 * En rouge : les CHU
-* 
+
 ![centres_parisiens](centres_parisiens.png)
 
 Afficher le chemin (à vol d'oiseau) d'une position gps (latitude, longitude) au centre d'hébergement le plus proche. 
-![centres_plus_proche](centres_plus_proche.png)
+![centre_plus_proche](centres_plus_proche.png)
