@@ -6,10 +6,10 @@ L'objectif de TeensInAI est de démocratiser l'AI et d'inspirer la prochaine gé
 ## Présentation de la solution proposée 
 
 ### Problématique 
-Comment aider les sans-domiciles-fixes au quotidien grâce à l’intelligence artificielle ?
+Comment aider les sans domiciles fixes au quotidien grâce à l’intelligence artificielle ?
 
 ### Solution proposée
-Création d'une application mobile et/ou site internet permettant de proposer des solutions d’aides au personnes sans domicile fixes (hébergements agrémentés, maison d’accueil, centre de restauration adaptés etc…) proche d’eux
+Création d'une application mobile et/ou site internet permettant de proposer des solutions d’aides au personnes sans domicile fixes (hébergements agrémentés, maison d’accueil, centre de restauration adaptés etc) proche d’eux.
 
 ### Code
 Afficher les centres d'hébergements parisiens sur une carte. 
