@@ -19,4 +19,4 @@ Afficher les centres d'hébergements parisiens sur une carte.
 ![centres_parisiens](centres_parisiens.png)
 
 Afficher le chemin (à vol d'oiseau) d'une position gps (latitude, longitude) au centre d'hébergement le plus proche. 
-![centre_plus_proche](centres_plus_proche.png)
+![centre_plus_proche](centre_plus_proche.png)
